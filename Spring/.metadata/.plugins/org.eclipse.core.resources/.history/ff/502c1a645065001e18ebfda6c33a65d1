@@ -1,0 +1,9 @@
+package work;
+
+@Controller
+public class CreateUserController {
+	@RequestMapping("/create")
+	public void createUser() {
+		System.out.println('Hi');
+	}
+}

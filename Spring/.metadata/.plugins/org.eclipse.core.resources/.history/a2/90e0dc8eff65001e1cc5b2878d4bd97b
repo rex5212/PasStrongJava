@@ -1,0 +1,5 @@
+    <form action="createUser">
+	    <input type='text' name='Nome do Usuário' /><br>
+	    <input type='password' name='Senha'/><br>
+	    <input type='submit' /><br>    
+    </form>

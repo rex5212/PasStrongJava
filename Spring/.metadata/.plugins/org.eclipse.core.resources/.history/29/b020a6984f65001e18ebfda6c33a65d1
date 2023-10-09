@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="https://www.springframework.org/schema/beans"
+		xmlns:ctx="https://www.springframework.org/schema/context"
+		xmlns:xsi="https://www.w3.org/2001/XMLSchema-instance"
+		xmlns:mvc="https://www.springframework.org/schema/mvc"
+		xsi:schemaLocation="https://www.springframework.org/schema/beans
+		https://www.springframework.org/schema/beans/spring-beans-2.5.xsd
+		https://www.springframework.org/schema/mvc
+		https://www.springframework.org/schema/mvc/spring-mvc-3.0.xsd
+		https://www.springframework.org/schema/context
+		https://www.springframework.org/schema/context/spring-context-2.5.xsd">
+
+		<ctx:annotation-config></ctx:annotation-config>
+		<ctx:component-scan base-package="work"></ctx:component-scan>
+</beans>

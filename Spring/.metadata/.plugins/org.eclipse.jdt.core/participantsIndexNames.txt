@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2496672730.index
+\passwordStrong\src\main\resources
+C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1232533066.index
+\pasStrong\src\main\resources
+C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1445608363.index
+\DemoMVC\src\main\resources
+C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\457458796.index
+\passwordStrong\src\main\resources

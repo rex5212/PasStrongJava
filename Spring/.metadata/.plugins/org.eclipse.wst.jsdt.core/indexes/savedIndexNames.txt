@@ -1,0 +1,3 @@
+INDEX VERSION 1.4+C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1570622840.index
+994041176.index

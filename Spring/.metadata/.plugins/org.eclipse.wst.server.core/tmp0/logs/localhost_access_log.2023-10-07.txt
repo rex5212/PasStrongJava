@@ -1,0 +1,13 @@
+127.0.0.1 - - [07/Oct/2023:18:32:30 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:33:17 -0300] "GET /passwordStrong/add?Nome+do+Usu%C3%A1rio=dsa&Senha=nvnbv HTTP/1.1" 500 8349
+127.0.0.1 - - [07/Oct/2023:18:35:59 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:36:05 -0300] "GET /passwordStrong/add?Nome+do+Usu%C3%A1rio=dsa&Senha=nvnbv HTTP/1.1" 500 8349
+127.0.0.1 - - [07/Oct/2023:18:37:10 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:37:14 -0300] "GET /passwordStrong/add?Nome+do+Usu%C3%A1rio=dsa&Senha=nvnbv HTTP/1.1" 500 8349
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:37:50 -0300] "GET /passwordStrong/add?Nome+do+Usu%C3%A1rio=dsa&Senha=dasdas HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:37:59 -0300] "GET /passwordStrong/add?Nome+do+Usu%C3%A1rio=dsa&Senha=dasdas HTTP/1.1" 404 682
+127.0.0.1 - - [07/Oct/2023:18:38:14 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:38:18 -0300] "GET /passwordStrong/index.jsp HTTP/1.1" 200 496
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:38:21 -0300] "GET /passwordStrong/createUser?Nome+do+Usu%E1rio=dasda&Senha=dasdasdasds HTTP/1.1" 500 8349
+127.0.0.1 - - [07/Oct/2023:18:39:51 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Oct/2023:18:39:53 -0300] "GET /passwordStrong/createUser?Nome+do+Usu%E1rio=dasda&Senha=dasdasdasds HTTP/1.1" 500 8349

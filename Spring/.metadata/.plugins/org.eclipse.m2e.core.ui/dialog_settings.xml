@@ -30,11 +30,13 @@
 			<item value="work.passwordStrong"/>
 		</list>
 		<list key="groupId">
+			<item value="com.learnspringmvc"/>
 			<item value="com.telusko"/>
 			<item value="com.work"/>
 			<item value="work"/>
 		</list>
 		<list key="artifactId">
+			<item value="UserLogin"/>
 			<item value="DemoMVC"/>
 			<item value="pasStrong"/>
 			<item value="passwordStrong"/>
@@ -48,6 +50,7 @@
 			<item value="[name]"/>
 		</list>
 		<list key="version">
+			<item value="1.1"/>
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
 	</section>

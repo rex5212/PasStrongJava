@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <servers>
-  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="apache-tomcat-9.0.65" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="3">
-    <list key="modules" value0="passwordStrong::org.eclipse.jst.j2ee.server:passwordStrong::jst.web::2.3"/>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="apache-tomcat-9.0.65" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
+    <list key="modules" value0="UserLogin::org.eclipse.jst.j2ee.server:UserLogin::jst.web::2.3"/>
   </server>
   <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/apache-tomcat-8.0.36 at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="apache-tomcat-8.0.36 at localhost" name="apache-tomcat-8.0.36 at localhost" runtime-id="apache-tomcat-8.0.36" server-type="org.eclipse.jst.server.tomcat.80" server-type-id="org.eclipse.jst.server.tomcat.80" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="5">
     <list key="modules" value0="pasStrong::org.eclipse.jst.j2ee.server:pasStrong::jst.web::2.3"/>

@@ -152,7 +152,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\passwordStrong" path="/passwordStrong" reloadable="true" source="org.eclipse.jst.j2ee.server:passwordStrong"/></Host>
+      <Context docBase="C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\Usuário1\OneDrive\Área de Trabalho\passwordStonger\Spring\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\UserLogin" path="/UserLogin" reloadable="true" source="org.eclipse.jst.j2ee.server:UserLogin"/></Host>
     </Engine>
   </Service>
 </Server>

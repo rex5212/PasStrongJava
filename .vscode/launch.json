@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "PayrollApplication",
+      "request": "launch",
+      "mainClass": "com.example.Payroll.PayrollApplication",
+      "projectName": "Payroll"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",

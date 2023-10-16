@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PasstrongApplication",
+      "request": "launch",
+      "mainClass": "com.work.passtrong.PasstrongApplication",
+      "projectName": ""
+    },
+    {
+      "type": "java",
       "name": "PayrollApplication",
       "request": "launch",
       "mainClass": "com.example.Payroll.PayrollApplication",

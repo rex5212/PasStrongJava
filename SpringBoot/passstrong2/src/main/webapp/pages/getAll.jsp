@@ -14,7 +14,7 @@
 <%--            <th>Name</th>--%>
 <%--            <th>Language</th>--%>
 <%--        </tr>--%>
-<%--        <c:forEach items="${data}" var="alien">--%>
+<%--        <c:forEach items="${data}" var="client">--%>
 <%--            <tr>--%>
 <%--                <td>${data.aid}</td>--%>
 <%--                <td>${data.aname}</td>--%>
